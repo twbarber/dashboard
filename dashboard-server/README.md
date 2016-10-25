@@ -1,3 +1,3 @@
 # dashboard-server
 
-Server component of personal dashboard. Written in Node.js
+Server component of personal dashboard. Written in Node.js and Express
